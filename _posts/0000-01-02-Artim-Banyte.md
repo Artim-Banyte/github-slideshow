@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "yo!"
+title: "yoo!"
 
 ---
 
